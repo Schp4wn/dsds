@@ -1,0 +1,14 @@
+## Interface: 11200
+## Title: Dark Souls Death Screen
+## Author: Jesterhead
+## Notes: Praise the Sun! \[T]/
+## X-Curse-Packaged-Version: v2.1
+## X-Curse-Project-Name: Dark Souls Death Screen
+## X-Curse-Project-ID: dark-souls-death-screen
+## X-Curse-Repository-ID: wow/dark-souls-death-screen/mainline
+
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: DarkSoulsDeathScreen
+
+DarkSoulsDeathScreen.lua

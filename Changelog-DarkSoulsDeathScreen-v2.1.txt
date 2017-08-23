@@ -1,0 +1,12 @@
+tag v2.1
+e184782c916bf86f7f92139827b0733c1e4f7b54
+Amose <breathfresheningpowerofham@gmail.com>
+2015-01-29 02:21:20 -0800
+
+Tagging as v2.1
+
+
+--------------------
+
+Amose:
+	- Fix the background not always fading in completely
